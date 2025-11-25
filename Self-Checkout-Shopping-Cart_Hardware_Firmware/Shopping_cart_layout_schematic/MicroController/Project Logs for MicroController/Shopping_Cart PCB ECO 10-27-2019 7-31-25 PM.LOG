@@ -1,0 +1,13 @@
+Added Component: Designator=J10(*GCT_BG301-04-X-XXXX-X-X_REVC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Detailed Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "2073-BG301-04-A-0540-L-BCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Price/Stock"; Value = "https://www.digikey.com/product-detail/en/gct/BG301-04-A-0540-L-B/2073-BG301-04-A-0540-L-BCT-ND/9859670?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BG301-04-A-0540-L-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_2 Pin=J10-2
+Added Pin To Net: NetName=NetJ10_3 Pin=J10-3
+Added Pin To Net: NetName=NetJ10_4 Pin=J10-4
+Added Member To Class: ClassName=Peripherals Member=Component J10 BG301-04-X-XXXX-X-X_REVC

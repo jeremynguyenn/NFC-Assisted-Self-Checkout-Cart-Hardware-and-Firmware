@@ -1,0 +1,30 @@
+Added Component: Designator=LED1(LEDC1608X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/SML-D12U1WT86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SML-D12U1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-SML-D12U1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=755-SML-D12U1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1332870P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1332870P"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC1608X50N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/20065/rcse3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RCS06034K70FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-RCS06034K70FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=71-RCS06034K70FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=LED Pin=R12-1
+Added Pin To Net: NetName=NetLED1_2 Pin=R12-2
+Added Member To Class: ClassName=MicroController Member=Component L101 SRN3015-4R7M
+Added Member To Class: ClassName=MicroController Member=Component LED1 SML-D12U1WT86
+Added Member To Class: ClassName=MicroController Member=Component R12 RCS06034K70FKEA
+Added Member To Class: ClassName=MicroController Member=Component S1 1825910-6
+Added Member To Class: ClassName=MicroController Member=Component U5 EFR32BG13P632F512GM48-C

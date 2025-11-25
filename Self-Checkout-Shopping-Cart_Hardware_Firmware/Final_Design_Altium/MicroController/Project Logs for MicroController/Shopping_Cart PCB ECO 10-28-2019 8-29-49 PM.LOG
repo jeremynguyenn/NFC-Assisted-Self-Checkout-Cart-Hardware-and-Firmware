@@ -1,0 +1,5 @@
+Added Component: Designator=F_Antenna(Inverted_F)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetF_Antenna_1 Pin=F_Antenna-1
+Added Pin To Net: NetName=GND Pin=F_Antenna-2
+Added Member To Class: ClassName=F_Antenna Member=Component F_Antenna Inverted_F

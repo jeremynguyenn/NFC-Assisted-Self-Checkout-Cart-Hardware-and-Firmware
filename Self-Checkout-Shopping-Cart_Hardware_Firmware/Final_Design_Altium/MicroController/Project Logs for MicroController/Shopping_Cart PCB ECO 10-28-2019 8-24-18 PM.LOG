@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=U5-16
+Added Pin To Net: NetName=NetF_Antenna_1 Pin=L3-2
+Added Net: Name=NetF_Antenna_1

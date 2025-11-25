@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MicroController.PrjPcb]
+   Generated File[Shopping_Cart-Plated.TXT]
+   Generated File[Shopping_Cart-NonPlated.TXT]
+   Generated File[Shopping_Cart.LDP]
+   Generated File[Shopping_Cart.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:52:07 AM On 11/10/2019

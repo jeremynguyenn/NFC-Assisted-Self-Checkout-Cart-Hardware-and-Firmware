@@ -1,0 +1,20 @@
+Added Component: Designator=L100(BEADC1608X100N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/3674856"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74279266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-74279266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-74279266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1241858P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1241858P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=L100-1
+Added Pin To Net: NetName=NetL100_2 Pin=L100-2
+Added Member To Class: ClassName=MicroController Member=Component C103 GRM1885C1H100JA01D
+Added Member To Class: ClassName=MicroController Member=Component C113 CC0603KRX7R7BB103
+Added Member To Class: ClassName=Battery_Management Member=Component J1 PJ-102A
+Added Member To Class: ClassName=Peripherals Member=Component J7 BG300-06-X-X-A_REVC
+Added Member To Class: ClassName=Peripherals Member=Component J9 FTSH-105-01-L-DV-K-TR
+Added Member To Class: ClassName=MicroController Member=Component L100 74279266
+Added Member To Class: ClassName=MicroController Member=Component R100 CRCW02011R00FXED
+Added Member To Class: ClassName=MicroController Member=Component Y2 FA-20H_38.4000MF10Z-AS3
