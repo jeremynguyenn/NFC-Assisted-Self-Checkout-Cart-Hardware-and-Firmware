@@ -3,12 +3,6 @@
 <img src="Project_Images/project_pcb.PNG">
 </p>
 
-
-<p align="middle">
-<img src="Project_Images/pcb.PNG">
-</p>
-
-
 This project was completed in the course Low Power Embedded Design Techniques at University of Colorado, Boulder under the guidance of Prof. Timothy Scherr and Prof. Randall Spalding during September 2019 - December 2019.  
 
 ## Hardware Components:
